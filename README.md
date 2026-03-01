@@ -69,4 +69,6 @@ Open `index.html` in any modern browser. No install required.
 
 **Lemonhaze** — Montreal born, Puerto Escondido based. Self-taught builder working across music, entrepreneurship, and digital art. The paint engine is a continuous personal project — each version an evolution of the underlying system, each inscription a snapshot of that process made permanent on Bitcoin.
 
+All versions of the paint engine — from early experiments through to the current release — are catalogued at [lemonhaze.com](https://lemonhaze.com) and permanently inscribed on Bitcoin.
+
 → [lemonhaze.com](https://lemonhaze.com)
