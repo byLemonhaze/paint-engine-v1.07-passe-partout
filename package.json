@@ -1,0 +1,11 @@
+{
+  "name": "paint-engine-v1.07-passe-partout",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"console.log('Static HTML project - no build step required')\"",
+    "test": "node --test tests/*.test.mjs",
+    "verify": "node -e \"console.log('Static HTML project - no build step required')\" && node --test tests/*.test.mjs"
+  }
+}
